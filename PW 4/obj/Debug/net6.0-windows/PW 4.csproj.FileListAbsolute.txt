@@ -1,0 +1,22 @@
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\PW 4.csproj.AssemblyReference.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\PW 4_MarkupCompile.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\PW 4.g.resources
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\PW 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\PW 4.AssemblyInfoInputs.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\PW 4.AssemblyInfo.cs
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\PW 4.csproj.CoreCompileInputs.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\bin\Debug\net6.0-windows\PW 4.exe
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\bin\Debug\net6.0-windows\PW 4.deps.json
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\bin\Debug\net6.0-windows\PW 4.runtimeconfig.json
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\bin\Debug\net6.0-windows\PW 4.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\bin\Debug\net6.0-windows\PW 4.pdb
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\PW 4.csproj.CopyComplete
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\PW 4.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\refint\PW 4.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\PW 4.pdb
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\PW 4.genruntimeconfig.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PW 4\PW 4\obj\Debug\net6.0-windows\ref\PW 4.dll
